@@ -1,2 +1,3 @@
 # Data-Visualization-Basics-Python-
-Basic Data Visualization techniques with python
+The above project demonstrates some basic data visualization techniques in Python using the Seaborn and Matplotlib libraries.
+
